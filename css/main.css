@@ -757,25 +757,37 @@ header .intro .btn-intro:hover, header .intro .btn-intro:focus, header .intro .b
   border-radius: 15%;
 }
 
+@media(min-width:500px) {
+  #products .product {
+    height: 130px;
+  }
+}
+
 @media(min-width:768px) {
-    #products .product {
-        height: 150px;
-    }
-    #products .product img {
-      width: 55%;
-    }
-    #products .product img.wider {
-      width: 90%;
-    }
-    #products .product i {
-      font-size: 87px;
-    }
-    #products .product .bootstrap-logo {
-      width: 9rem;
-      height: 9rem;
-      font-size: 6.5rem;
-      line-height: 9rem;
-    }
+  #products .product {
+    height: 150px;
+  }
+  #products .product img {
+    width: 55%;
+  }
+  #products .product img.wider {
+    width: 90%;
+  }
+  #products .product i {
+    font-size: 87px;
+  }
+  #products .product .bootstrap-logo {
+    width: 9rem;
+    height: 9rem;
+    font-size: 6.5rem;
+    line-height: 9rem;
+  }
+}
+
+@media(min-width:1300px) {
+  #products .product {
+    height: 170px;
+  }
 }
 
 
