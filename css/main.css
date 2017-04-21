@@ -279,11 +279,18 @@ section.inner {
 .no-padding { padding: 0; }
 
 .navbar-tj {
-    font-weight: 400;
-    background-color: #fff;
-    font-size: 12px;
+  font-weight: 400;
+  background-color: #fff;
+  font-size: 12px;
+
 }
 
+.navbar-tj.affix {
+  -webkit-transition: background-color 400mx linear;
+  -ms-transition: background-color 400ms linear;
+  transition: background-color 400ms linear;
+
+}
 .navbar-tj.navbar-fixed-top {
     border-width: 0;
 }
@@ -406,6 +413,8 @@ section.inner {
         transition: box-shadow 0s;
     }
 
+
+
     .navbar-tj.affix-top {
         background-color: #21d08f;
         -webkit-box-shadow: 0px 20px 100px 20px rgba(33,208,143,1);
@@ -460,14 +469,14 @@ section.inner {
 
     .navbar-tj .nav > li > a,
     .navbar-tj .nav > li > a:focus {
-        color: #464956;
-        padding-top: 33px;
-        padding-bottom: 23px;
-        text-align: center;
+      color: #464956;
+      padding-top: 33px;
+      padding-bottom: 23px;
+      text-align: center;
     }
     .navbar-tj.affix-top .nav > li > a,
     .navbar-tj.affix-top .nav> li > a:focus {
-        color: #fff;
+      color: #fff;
     }
 
     .navbar-tj .nav > li > a:hover,
@@ -476,7 +485,13 @@ section.inner {
     }
     .navbar-tj.affix-top .nav > li > a:hover,
     .navbar-tj.affix-top .nav > li > a:focus:hover {
-        color: #464956;
+      color: #fff;
+      border-bottom: 2px solid #e2f6ef;
+      padding-bottom: 21px;
+      -webkit-transition: padding 0s ease-out 0s;
+      -moz-transition: padding 0s ease-out 0s;
+      -o-transition: padding 0s ease-out 0s;
+      transition: padding 0s ease-out 0s;
     }
 
     .navbar-tj .nav > li.active > a,
@@ -889,7 +904,7 @@ div#page-loader {
   text-align: center;
   width: 100%;
   padding-top: 200px;
-  z-index: 1000;
+  z-index: 2000;
 }
 
 div#page-loader img {
@@ -1170,6 +1185,14 @@ section.work-shots {
     line-height: 12px;
 }
 
+header .intro.small-me {
+  width: 50%;
+  padding-top: 6%;
+}
+
+header .intro.small-me .btn-intro {
+  display: none;
+}
 section.hp.remove-20-hp {
     padding-top: 60px;
 }
