@@ -1225,3 +1225,15 @@ section.work-shots {
     font-size: 12px;
     line-height: 12px;
 }
+
+header .intro.small-me {
+  width: 50%;
+  padding-top: 6%;
+}
+
+header .intro.small-me .btn-intro {
+  display: none;
+}
+section.hp.remove-20-hp {
+  padding-top: 60px;
+}
