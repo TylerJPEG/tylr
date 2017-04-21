@@ -16,7 +16,6 @@
         event.preventDefault();
     });
 
-    // Highlight the top nav as scrolling occurs
     $('body').scrollspy({
         target: '.navbar-fixed-top',
         offset: 51
@@ -24,32 +23,31 @@
 
     // Closes the Responsive Menu on Menu Item Click
     $('.navbar-collapse ul li a').click(function() {
-        $('.navbar-toggle:visible').click();
+      $('.navbar-toggle:visible').click();
     });
 
     // Fit Text Plugin for Main Header
     $("header .intro ul li").fitText(
-        1.15, {
-            minFontSize: '26px',
-            maxFontSize: '65px'
-        }
+      1.15, {
+        minFontSize: '26px',
+        maxFontSize: '65px'
+      }
     );
+
+    var heights = $( window ).height() - 150;
 
     // Offset for Main Navigation
     $('#navMain').affix({
-        offset: {
-            top: 510
-
-        }
+      offset: {
+        top: heights 
+      }
     })
 
     // Initialize WOW.js Scrolling Animations
     new WOW().init();
 
     $(window).load(function(){
-       // PAGE IS FULLY LOADED  
-       // FADE OUT YOUR OVERLAYING DIV
-       $('#page-loader').fadeOut();
+      $('#page-loader').fadeOut();
     });
 
 })(jQuery); // End of use strict
