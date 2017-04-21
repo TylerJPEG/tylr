@@ -1150,3 +1150,7 @@ section.work-shots {
     font-size: 12px;
     line-height: 12px;
 }
+
+section.hp.remove-20-hp {
+    padding-top: 60px;
+}
