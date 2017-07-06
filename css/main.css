@@ -825,16 +825,9 @@ header .intro .btn-intro:hover, header .intro .btn-intro:focus, header .intro .b
   #products .product > i {
     font-size: 80px;
   }
-  #products .product > .bootstrap-logo {
-    width: 9rem;
-    height: 9rem;
-    font-size: 6.5rem;
-    line-height: 9rem;
-  }
   #products .product > div {
     font-size: 18px;
   }
-
   #products .product > img.thinnger {
     width: 60%;
   }
