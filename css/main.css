@@ -169,7 +169,7 @@ section.inner {
     margin-bottom: 10px;
 }
 .resume-employer {
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 400;
     display: block;
 }
@@ -181,6 +181,7 @@ section.inner {
     margin-top: 5px;
     text-transform: uppercase;
     margin-left: 0;
+    font-weight: 400;
 }
 .sectional {
     display: none;
@@ -193,11 +194,12 @@ section.inner {
     padding-bottom: 10px;
     border-bottom: 1px solid #e6e6e6;
     text-transform: uppercase;
+    font-weight: 400;
 }
 
 .resume-p {
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 13px;
+    line-height: 22px;
     margin-bottom: 40px;
 }
 
@@ -225,8 +227,28 @@ section.inner {
     color: #fff;
 }
 
+.resume-list {
+  margin-top: 10px;
+  margin-bottom: 40px;
+}
+
+.resume-list li {
+  font-size: 16px;
+  line-height: 24px;
+}
+
 
 @media(min-width:768px) {
+
+    .resume-p {
+      font-size: 16px;
+      line-height: 24px;
+    }
+
+    .resume-employer {
+      font-size: 20px;
+    }
+
     .resume-detail {
         margin-bottom: 5px;
     }
@@ -345,7 +367,8 @@ section.inner {
 
 .navbar-tj .nav > li a{
     border-top: 1px solid #c2efdf;
-    font-size: 14px;
+    font-size: 12px;
+    letter-spacing: 1px;
 }
 
 .navbar-tj .nav > li:first-child a{
@@ -359,6 +382,7 @@ section.inner {
     padding-top: 14px;
     padding-bottom: 14px;
     text-align: center;
+    outline: none;
 }
 
 .navbar-tj .nav > li > a:hover,
@@ -1123,7 +1147,7 @@ section.work-shots {
 .work-header {
     padding: 180px 0 140px;
     color: #fff;
-    font-weight: 600;
+    font-weight: 400;
 }
 
 .tags {
@@ -1194,6 +1218,15 @@ section.work-shots {
     color: #464956;
     font-size: 20px;
     margin-bottom: 5px;
+}
+
+.social-list a {
+  text-decoration: none;
+  color: #464956;
+}
+
+.social-list a:hover {
+  color: #21d08f;
 }
 
 .social-icon {
