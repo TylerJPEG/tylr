@@ -1172,16 +1172,27 @@ section.work-shots {
 }
 
 .about {
-    margin-top: 80px;
+    margin-top: 30px;
 }
 
 .about .right-side {
-    border-left: 1px solid #21d08f;
+    border-left: 0px solid transparent;
+    border-top: 0;
+    padding-top: 15px;
 }
 
+.about .social-mobile-nav {
+  margin-bottom: 15px;
+}
+.about .left-side {
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+
+
 .about .profile-pic {
-    width: 200px;
-    height: 200px;
+    width: 180px;
+    height: 180px;
     background-image: url('../img/tyler-jpeg-200-200.jpg');
     background-size: cover;
     display: block;
@@ -1219,6 +1230,75 @@ section.work-shots {
     font-size: 20px;
     margin-bottom: 5px;
 }
+.social-icon {
+    display: inline-block;
+    position: relative;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    line-height: 1.0;
+    padding: 0;
+    vertical-align: middle;
+    background-color: #21d08f;
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+    margin: 0;
+}
+
+.social-icon i {
+    width: 36px;
+    height: 36px;
+    font-size: 18px;
+    line-height: 36px;
+}
+
+@media(min-width:768px) {
+
+  .about {
+    margin-top: 50px;
+  }
+  .about .right-side {
+    border-left: 1px solid #21d08f;
+    border-top: 0px solid transparent;
+    padding-top: 30px;
+  }
+  .about .left-side {
+    padding-bottom: 30px;
+    padding-top: 25px;
+    border-bottom: 1px solid #fafdfc;
+  }
+  .social-icon {
+    padding: 6px;
+    font-size: 12px;
+    margin: 0 3px 5px 0;
+  }
+
+  .social-icon i {
+    width: 12px;
+    height: 12px;
+    font-size: 12px;
+    line-height: 12px;
+  }
+
+  .about .profile-pic {
+    width: 120px;
+    height: 120px;
+  }
+
+}
+
+@media(min-width:992px) {
+
+  .about .profile-pic {
+    width: 180px;
+    height: 180px;
+  }
+  .about .left-side {
+    padding-top: 0;
+  }
+
+}
 
 .social-list a {
   text-decoration: none;
@@ -1229,28 +1309,6 @@ section.work-shots {
   color: #21d08f;
 }
 
-.social-icon {
-    display: inline-block;
-    position: relative;
-    border-radius: 100px;
-    -webkit-border-radius: 100px;
-    -moz-border-radius: 100px;
-    line-height: 1.0;
-    padding: 6px;
-    vertical-align: middle;
-    background-color: #21d08f;
-    color: #fff;
-    font-size: 12px;
-    text-align: center;
-    margin: 0 3px 5px 0;
-}
-
-.social-icon i {
-    width: 12px;
-    height: 12px;
-    font-size: 12px;
-    line-height: 12px;
-}
 
 header .intro.small-me {
   width: 50%;
