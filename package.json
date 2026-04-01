@@ -1,0 +1,26 @@
+{
+  "name": "tylr",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Foundation for a personal life tracking system.",
+  "scripts": {
+    "build": "tsc --project tsconfig.json",
+    "check": "tsc --noEmit --project tsconfig.json",
+    "dev": "tsx src/index.ts",
+    "generate:instagram-captions": "tsx src/scripts/generate-instagram-captions.ts",
+    "set:instagram-direction": "tsx src/scripts/set-instagram-direction.ts",
+    "seed:instagram": "tsx src/scripts/seed-instagram.ts",
+    "sync:instagram-rules": "tsx src/scripts/sync-instagram-rules.ts",
+    "test": "vitest run"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@types/node": "^24.5.2",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2",
+    "vitest": "^3.2.4"
+  }
+}
