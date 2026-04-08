@@ -178,167 +178,184 @@
         "guided by voices"
       ],
       "notes": "Posted 2 days before April 7, 2026."
+    },
+    {
+      "id": "06e40be8d0434190",
+      "caption": "I've spent an unreasonable amount of time trying to get my friends to care about 69 Love Songs. Not because it needs defending, but because it feels too important to love alone. To me it's one of the best examples of what an album can be, complete in a way very few are. It's bigger than just a collection of songs. It's an entire universe of ideas, and people, and feelings. Funny, mean, smart, strange, devastating. And somewhere inside that universe is a map of all the things I love and care about.",
+      "postedAt": "2026-04-06T12:00:00.000Z",
+      "tags": [
+        "themagneticfields",
+        "69lovesongs"
+      ],
+      "themes": [
+        "band tees",
+        "album appreciation",
+        "personal voice",
+        "music criticism",
+        "musical identity"
+      ],
+      "notes": "Posted 2 days before April 8, 2026."
     }
   ],
   "rules": [
     {
-      "id": "626526d4-ce3d-49b8-9d61-caba3952c500",
+      "id": "8ac46498-30ea-4693-9db9-faaaffb32d61",
       "category": "tone",
       "instruction": "Lead with the musical idea, not the fact that you own the shirt.",
       "rationale": "The page should read like music conversation filtered through collecting, not collecting for its own sake.",
       "priority": 100,
-      "createdAt": "2026-04-07T21:12:14.299Z",
-      "updatedAt": "2026-04-07T21:12:14.299Z",
+      "createdAt": "2026-04-08T23:38:13.367Z",
+      "updatedAt": "2026-04-08T23:38:13.367Z",
       "source": "manual"
     },
     {
-      "id": "97ad557b-f10b-441d-b668-26f25716028e",
+      "id": "948b3eeb-7224-4055-8b6f-c7e2926ce793",
       "category": "avoidance",
       "instruction": "Do not sound like sales copy, product marketing, or resale content.",
       "rationale": "The page is an archive and hobby outlet, not a storefront.",
       "priority": 100,
-      "createdAt": "2026-04-07T21:12:14.301Z",
-      "updatedAt": "2026-04-07T21:12:14.301Z",
+      "createdAt": "2026-04-08T23:38:13.369Z",
+      "updatedAt": "2026-04-08T23:38:13.369Z",
       "source": "manual"
     },
     {
-      "id": "2ac4a1b0-5af5-4487-b571-7a81664afccd",
+      "id": "46659012-90ab-40d8-bd62-840a50402c25",
       "category": "avoidance",
       "instruction": "Do not reduce the caption to simple identification like 'here's a Pavement shirt'.",
       "rationale": "The post should move beyond naming the item and toward why the music matters.",
       "priority": 99,
-      "createdAt": "2026-04-07T21:12:14.301Z",
-      "updatedAt": "2026-04-07T21:12:14.301Z",
+      "createdAt": "2026-04-08T23:38:13.370Z",
+      "updatedAt": "2026-04-08T23:38:13.370Z",
       "source": "manual"
     },
     {
-      "id": "0d12b0f8-ca9c-4bbe-9320-b3f5d6004c8f",
+      "id": "62d82f8f-bcc0-41a4-afb5-aa1a9ab68862",
       "category": "tone",
       "instruction": "Write from informed proximity, not false firsthandness.",
       "rationale": "Do not imply direct participation in 80s or 90s scenes unless it is literally true.",
       "priority": 99,
-      "createdAt": "2026-04-07T21:12:14.302Z",
-      "updatedAt": "2026-04-07T21:12:14.302Z",
+      "createdAt": "2026-04-08T23:38:13.372Z",
+      "updatedAt": "2026-04-08T23:38:13.372Z",
       "source": "manual"
     },
     {
-      "id": "10ff91e0-27fd-4f2f-808c-1347b2ddd174",
+      "id": "83044e12-aed9-4169-b141-2475eac2f98e",
       "category": "structure",
       "instruction": "Use the shirt as supporting evidence or a prompt, not the headline.",
       "rationale": "The object should open the door to a larger point about the band, record, or scene.",
       "priority": 98,
-      "createdAt": "2026-04-07T21:12:14.300Z",
-      "updatedAt": "2026-04-07T21:12:14.300Z",
+      "createdAt": "2026-04-08T23:38:13.368Z",
+      "updatedAt": "2026-04-08T23:38:13.368Z",
       "source": "manual"
     },
     {
-      "id": "0b75eedf-9da2-46ff-a9f6-46dcca1c9e1d",
+      "id": "63ab2ac7-6569-4077-a916-5f610e0f62fc",
       "category": "avoidance",
       "instruction": "Do not write as though you were present in a 90s scene unless the post is explicitly about your own lived experience.",
       "rationale": "Avoid accidental scene cosplay or borrowed authority.",
       "priority": 98,
-      "createdAt": "2026-04-07T21:12:14.303Z",
-      "updatedAt": "2026-04-07T21:12:14.303Z",
+      "createdAt": "2026-04-08T23:38:13.373Z",
+      "updatedAt": "2026-04-08T23:38:13.373Z",
       "source": "manual"
     },
     {
-      "id": "ab8fdc83-a013-4767-9895-7709f8e704f8",
+      "id": "44e6361d-8779-416f-afe9-d23cbd910f34",
       "category": "pattern",
       "instruction": "When possible, pivot from the shirt toward what makes the band, record, or era interesting.",
       "rationale": "This matches the further and Archers of Loaf posts you identified as anchor examples.",
       "priority": 97,
-      "createdAt": "2026-04-07T21:12:14.301Z",
-      "updatedAt": "2026-04-07T21:12:14.301Z",
+      "createdAt": "2026-04-08T23:38:13.371Z",
+      "updatedAt": "2026-04-08T23:38:13.371Z",
       "source": "manual"
     },
     {
-      "id": "e057e0b5-bb8c-4542-9368-7898605d42b5",
+      "id": "b5c3b598-105a-4d82-a2e2-5d3f55cf4b85",
       "category": "grammar",
       "instruction": "Avoid phrasing that suggests you personally lived a scene in real time when you are really speaking from knowledge, listening, and historical understanding.",
       "rationale": "The voice should carry authority without borrowing eyewitness status.",
       "priority": 97,
-      "createdAt": "2026-04-07T21:12:14.302Z",
-      "updatedAt": "2026-04-07T21:12:14.302Z",
+      "createdAt": "2026-04-08T23:38:13.372Z",
+      "updatedAt": "2026-04-08T23:38:13.372Z",
       "source": "manual"
     },
     {
-      "id": "09c18ed6-f128-46a1-94a0-ec47dbcf1a9a",
+      "id": "77036fd3-d34b-4cc5-a72f-6b3cd9988e71",
       "category": "vocabulary",
       "instruction": "Favor music writing, cultural context, and personal taste over collector jargon.",
       "rationale": "This keeps the captions closer to criticism and reflection than vintage commerce.",
       "priority": 96,
-      "createdAt": "2026-04-07T21:12:14.300Z",
-      "updatedAt": "2026-04-07T21:12:14.300Z",
+      "createdAt": "2026-04-08T23:38:13.369Z",
+      "updatedAt": "2026-04-08T23:38:13.369Z",
       "source": "manual"
     },
     {
-      "id": "f046d55b-2f31-4dd4-86c1-cc3af0f1280c",
+      "id": "2ecedfb8-8fd6-4af6-a8d7-d2614fab714f",
       "category": "grammar",
       "instruction": "Prefer language like 'seems central,' 'has come to feel important,' 'in the history of,' or 'the more you dig into it' over language that assumes direct contemporaneous experience.",
       "rationale": "This keeps the stance grounded in informed retrospect rather than false memoir.",
       "priority": 95,
-      "createdAt": "2026-04-07T21:12:14.303Z",
-      "updatedAt": "2026-04-07T21:12:14.303Z",
+      "createdAt": "2026-04-08T23:38:13.372Z",
+      "updatedAt": "2026-04-08T23:38:13.372Z",
       "source": "manual"
     },
     {
-      "id": "7d4ee714-543d-4224-be4d-216821fb2cea",
+      "id": "89a037d2-7d8b-423b-a3e2-053195947ab9",
       "category": "tone",
       "instruction": "Sound like someone thinking through taste and significance in real time.",
       "rationale": "The voice should feel reflective, specific, and alive rather than polished into copy.",
       "priority": 94,
-      "createdAt": "2026-04-07T21:12:14.302Z",
-      "updatedAt": "2026-04-07T21:12:14.302Z",
+      "createdAt": "2026-04-08T23:38:13.371Z",
+      "updatedAt": "2026-04-08T23:38:13.371Z",
       "source": "manual"
     },
     {
-      "id": "2bdbfb64-de5f-437c-9252-0ebf82ded398",
+      "id": "f0cebe37-dae1-418e-9cf5-aff6c072e5ea",
       "category": "vocabulary",
       "instruction": "Keep wording natural and conversational rather than corporate.",
       "priority": 85,
-      "createdAt": "2026-04-07T21:12:13.752Z",
-      "updatedAt": "2026-04-07T21:12:13.752Z",
+      "createdAt": "2026-04-08T23:38:12.589Z",
+      "updatedAt": "2026-04-08T23:38:12.589Z",
       "source": "seed-analysis"
     },
     {
-      "id": "4702616b-6eba-4713-a82f-4d264017e778",
+      "id": "402a8aab-7b66-48d4-90f7-f6049add9dc2",
       "category": "structure",
       "instruction": "Allow room for a fuller story arc before the close.",
       "priority": 80,
-      "createdAt": "2026-04-07T21:12:13.752Z",
-      "updatedAt": "2026-04-07T21:12:13.752Z",
+      "createdAt": "2026-04-08T23:38:12.589Z",
+      "updatedAt": "2026-04-08T23:38:12.589Z",
       "source": "seed-analysis"
     },
     {
-      "id": "88c3d4ef-2617-4127-a693-40f6d38302e6",
+      "id": "9eeba9a3-22e7-482f-8bc2-064a0120b8d2",
       "category": "pattern",
       "instruction": "Preserve recurring language patterns such as: after that, who knows, archers of loaf -, but it wasn’t.",
       "priority": 75,
-      "createdAt": "2026-04-07T21:12:13.752Z",
-      "updatedAt": "2026-04-07T21:12:13.752Z",
+      "createdAt": "2026-04-08T23:38:12.589Z",
+      "updatedAt": "2026-04-08T23:38:12.589Z",
       "source": "seed-analysis"
     },
     {
-      "id": "afcfc22b-15c5-4ee3-bd69-fff69f0ca59b",
+      "id": "3da517b7-9c93-4327-a238-79e520b42a44",
       "category": "tone",
       "instruction": "Avoid sounding salesy or overly directive.",
       "priority": 70,
-      "createdAt": "2026-04-07T21:12:13.752Z",
-      "updatedAt": "2026-04-07T21:12:13.752Z",
+      "createdAt": "2026-04-08T23:38:12.589Z",
+      "updatedAt": "2026-04-08T23:38:12.589Z",
       "source": "seed-analysis"
     },
     {
-      "id": "643dfefd-72e1-4eff-8a73-811fe18c67ee",
+      "id": "f1f1849e-3862-46d1-b10a-d1e2a2a57d2e",
       "category": "pattern",
       "instruction": "Common caption openings tend to resemble: 2025 was a | A great EP.",
       "priority": 55,
-      "createdAt": "2026-04-07T21:12:13.752Z",
-      "updatedAt": "2026-04-07T21:12:13.752Z",
+      "createdAt": "2026-04-08T23:38:12.589Z",
+      "updatedAt": "2026-04-08T23:38:12.589Z",
       "source": "seed-analysis"
     }
   ],
   "profile": {
-    "summary": "Seeded from 12 posts. Captions trend longer-form, with no emojis and rare direct CTA language.",
+    "summary": "Seeded from 13 posts. Captions trend longer-form, with no emojis and rare direct CTA language.",
     "toneKeywords": [
       "time",
       "band",
@@ -361,7 +378,7 @@
       "archers of loaf -",
       "but it wasn’t",
       "even the fake gbv chant at the start feels important now",
-      "guided by voices - fast japanese spin cycle"
+      "funny, mean, smart, strange, devastating"
     ],
     "recurringHashtags": [
       "#guidedbyvoices",
@@ -371,7 +388,7 @@
     "emojiUsage": "none",
     "punctuationStyle": "minimal",
     "callToActionStyle": "rare",
-    "updatedAt": "2026-04-07T21:12:13.752Z"
+    "updatedAt": "2026-04-08T23:38:12.589Z"
   },
   "direction": {
     "positioning": "This is a hobby archive page, not a sales channel or fashion marketing page.",
@@ -401,6 +418,6 @@
       "further",
       "Archers of Loaf"
     ],
-    "updatedAt": "2026-04-07T21:12:14.036Z"
+    "updatedAt": "2026-04-08T23:38:12.959Z"
   }
 }
