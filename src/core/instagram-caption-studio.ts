@@ -239,7 +239,7 @@ export class InstagramCaptionStudio {
       rules.push(
         this.createSeedRule(
           "pattern",
-          `Preserve recurring language patterns such as: ${profile.recurringPhrases.slice(0, 3).join(", ")}.`,
+          `Use recurring phrases as diagnostic evidence only, not as reusable language: ${profile.recurringPhrases.slice(0, 3).join(", ")}.`,
           75,
           now,
         ),
@@ -250,7 +250,7 @@ export class InstagramCaptionStudio {
       rules.push(
         this.createSeedRule(
           "pattern",
-          `Common caption openings tend to resemble: ${profile.commonOpeners.slice(0, 2).join(" | ")}.`,
+          `Common caption openings are reference points to avoid over-repeating, not templates: ${profile.commonOpeners.slice(0, 2).join(" | ")}.`,
           55,
           now,
         ),

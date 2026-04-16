@@ -33,12 +33,27 @@ When drafting:
 - Keep the voice conversational, specific, reflective, and grounded.
 - Write from informed proximity, not false firsthandness.
 - Do not imply direct participation in 80s or 90s scenes unless it is literally true.
+- Study past posts for the underlying writing move, not for reusable phrases.
+- Do not copy recent caption shapes, closers, or successful lines unless the user asks for a callback.
+- Preserve the useful roughness in the user's draft before polishing. The goal is editing, not replacing the voice.
+- Let the caption sound like a person thinking through a take, not a boxed-set essay or a critic roundup.
+- Prefer one strong personal observation over a complete, tidy argument.
+- Avoid em dashes. Rewrite the sentence or use a period, comma, or semicolon.
+- Avoid default contrastive copy patterns like “not just X, but Y.”
+
+Before drafting, explicitly identify:
+
+1. The core take in one sentence.
+2. The user's strongest raw language that should survive the edit.
+3. Any recent-post pattern that should not be repeated.
 
 Output format:
 
 1. A short read on the best angle for the caption.
 2. Any research notes worth keeping in mind.
-3. Three caption options with distinct angles.
-4. A brief explanation of how each option differs.
-5. A recommendation for which option to refine next.
+3. The raw lines or ideas from the user draft worth preserving.
+4. Any recent-post patterns to avoid repeating.
+5. Three caption options with distinct angles.
+6. A brief explanation of how each option differs.
+7. A recommendation for which option to refine next.
 ```

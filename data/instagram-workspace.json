@@ -212,173 +212,299 @@
         "difficult bands"
       ],
       "notes": "Draft locked in on April 13, 2026."
+    },
+    {
+      "id": "41a82387dc1642a6",
+      "caption": "Who was the best 90s indie rock band? Obviously that’s not a serious question. Music, and art in general, isn’t really about being the best, and the good stuff usually resists that kind of ranking anyway. But that won’t stop me.\n\nWhen it comes to 90s indie rocking, Superchunk were just better at it than most. Their output through the decade was unmatched. They toured constantly. Their singles became staples. Merge Records, Chapel Hill, an entire ecosystem growing around them. They weren’t just making great indie rock, they were building the model for what it was and how it worked.\n\nThere’s a certain human quality to Superchunk, a realness that’s hard to separate from the music itself. No mythology, no mystique. In fact, Superchunk might be one of the least mysterious indie bands of the 90s. Maybe that’s why they hit such a specific kind of nostalgia. Not like a band trapped in the 90s, but one that feels like it has always been nearby. Like Superchunk were already there before you found them, and will probably still be there whenever you come back.",
+      "postedAt": "2026-04-16T12:00:00.000Z",
+      "tags": [
+        "superchunk"
+      ],
+      "themes": [
+        "band tees",
+        "artist appreciation",
+        "personal voice",
+        "music criticism",
+        "90s indie rock"
+      ],
+      "notes": "Posted on April 16, 2026."
     }
   ],
   "rules": [
     {
-      "id": "04bcfd6f-80e0-404e-9500-34663f5473a1",
+      "id": "1f842cd0-ada9-433a-99d3-191ebc5505a3",
       "category": "tone",
       "instruction": "Lead with the musical idea, not the fact that you own the shirt.",
       "rationale": "The page should read like music conversation filtered through collecting, not collecting for its own sake.",
       "priority": 100,
-      "createdAt": "2026-04-13T22:09:24.023Z",
-      "updatedAt": "2026-04-13T22:09:24.023Z",
+      "createdAt": "2026-04-16T22:26:21.006Z",
+      "updatedAt": "2026-04-16T22:26:21.006Z",
       "source": "manual"
     },
     {
-      "id": "75e75499-ecc8-4637-98d0-f1b285a15bc8",
+      "id": "d023c3f9-c798-4a17-80f7-df9d0da0c939",
       "category": "avoidance",
       "instruction": "Do not sound like sales copy, product marketing, or resale content.",
       "rationale": "The page is an archive and hobby outlet, not a storefront.",
       "priority": 100,
-      "createdAt": "2026-04-13T22:09:24.025Z",
-      "updatedAt": "2026-04-13T22:09:24.025Z",
+      "createdAt": "2026-04-16T22:26:21.009Z",
+      "updatedAt": "2026-04-16T22:26:21.009Z",
       "source": "manual"
     },
     {
-      "id": "469b62fa-169f-4fbe-b945-b6cd15c18119",
+      "id": "a2eaee21-b7db-4a55-a23a-8b21ed5fea77",
+      "category": "pattern",
+      "instruction": "Study past posts for their underlying move, not their surface wording.",
+      "rationale": "The goal is to understand how a caption thinks: premise, personal stake, specific context, turn, and close. Reusing phrases from earlier captions makes new posts feel like templates.",
+      "priority": 100,
+      "createdAt": "2026-04-16T22:26:21.013Z",
+      "updatedAt": "2026-04-16T22:26:21.013Z",
+      "source": "manual"
+    },
+    {
+      "id": "93243636-0378-421a-bafc-038e4d7a831c",
+      "category": "avoidance",
+      "instruction": "Do not recycle successful phrases, sentence shapes, or closing moves from recent captions unless the user explicitly asks for a callback.",
+      "rationale": "The voice should stay consistent without making every post sound like a variation of the last one.",
+      "priority": 100,
+      "createdAt": "2026-04-16T22:26:21.013Z",
+      "updatedAt": "2026-04-16T22:26:21.013Z",
+      "source": "manual"
+    },
+    {
+      "id": "864cbeca-ec54-4b01-9341-2acb7a730eda",
+      "category": "process",
+      "instruction": "When rewriting a user draft, keep the user's central sentences visible and improve rhythm around them instead of replacing the whole voice.",
+      "rationale": "The tool should act like an editor, not a ghostwriter trying to impress someone.",
+      "priority": 100,
+      "createdAt": "2026-04-16T22:26:21.016Z",
+      "updatedAt": "2026-04-16T22:26:21.016Z",
+      "source": "manual"
+    },
+    {
+      "id": "84baf8fa-4272-4995-8fb1-bf564958689f",
+      "category": "punctuation",
+      "instruction": "Avoid em dashes. Rewrite the sentence, use a period, or use a comma or semicolon when grammatically clean.",
+      "rationale": "The user's preference is to avoid dash-driven rhythm.",
+      "priority": 100,
+      "createdAt": "2026-04-16T22:26:21.017Z",
+      "updatedAt": "2026-04-16T22:26:21.017Z",
+      "source": "manual"
+    },
+    {
+      "id": "3061c37a-ded5-420d-b17c-e473e57e3aed",
       "category": "avoidance",
       "instruction": "Do not reduce the caption to simple identification like 'here's a Pavement shirt'.",
       "rationale": "The post should move beyond naming the item and toward why the music matters.",
       "priority": 99,
-      "createdAt": "2026-04-13T22:09:24.026Z",
-      "updatedAt": "2026-04-13T22:09:24.026Z",
+      "createdAt": "2026-04-16T22:26:21.010Z",
+      "updatedAt": "2026-04-16T22:26:21.010Z",
       "source": "manual"
     },
     {
-      "id": "55617836-084e-44a0-ae3c-db7cdff4583e",
+      "id": "e295e7a9-347a-4aca-a065-b41fc3312201",
       "category": "tone",
       "instruction": "Write from informed proximity, not false firsthandness.",
       "rationale": "Do not imply direct participation in 80s or 90s scenes unless it is literally true.",
       "priority": 99,
-      "createdAt": "2026-04-13T22:09:24.027Z",
-      "updatedAt": "2026-04-13T22:09:24.027Z",
+      "createdAt": "2026-04-16T22:26:21.011Z",
+      "updatedAt": "2026-04-16T22:26:21.011Z",
       "source": "manual"
     },
     {
-      "id": "2be979e5-a777-4545-82ea-42bc9da710c0",
+      "id": "be55d8ae-43bd-4f6c-ac97-b0ea3f10cffe",
+      "category": "tone",
+      "instruction": "Preserve the roughness of the user's draft before polishing it.",
+      "rationale": "The user's captions often work because they start as a blunt, human observation. Over-cleaning turns them into generic music criticism.",
+      "priority": 99,
+      "createdAt": "2026-04-16T22:26:21.014Z",
+      "updatedAt": "2026-04-16T22:26:21.014Z",
+      "source": "manual"
+    },
+    {
+      "id": "07a6d5aa-1151-430f-b9ed-92f644c63fc5",
+      "category": "process",
+      "instruction": "Before offering a polished caption, name the actual take in one sentence and identify what must not be repeated from the last few posts.",
+      "rationale": "This forces the agent to distinguish artistic style from phrase reuse and prevents accidental regurgitation.",
+      "priority": 99,
+      "createdAt": "2026-04-16T22:26:21.016Z",
+      "updatedAt": "2026-04-16T22:26:21.016Z",
+      "source": "manual"
+    },
+    {
+      "id": "4e2a5765-6105-4600-83c9-c0a243f1ebb9",
       "category": "structure",
       "instruction": "Use the shirt as supporting evidence or a prompt, not the headline.",
       "rationale": "The object should open the door to a larger point about the band, record, or scene.",
       "priority": 98,
-      "createdAt": "2026-04-13T22:09:24.024Z",
-      "updatedAt": "2026-04-13T22:09:24.024Z",
+      "createdAt": "2026-04-16T22:26:21.007Z",
+      "updatedAt": "2026-04-16T22:26:21.007Z",
       "source": "manual"
     },
     {
-      "id": "4bf9e5cf-566d-45f8-92a3-ef997133a356",
+      "id": "6794f0fb-17eb-4687-8c74-9ac03884ca88",
       "category": "avoidance",
       "instruction": "Do not write as though you were present in a 90s scene unless the post is explicitly about your own lived experience.",
       "rationale": "Avoid accidental scene cosplay or borrowed authority.",
       "priority": 98,
-      "createdAt": "2026-04-13T22:09:24.028Z",
-      "updatedAt": "2026-04-13T22:09:24.028Z",
+      "createdAt": "2026-04-16T22:26:21.013Z",
+      "updatedAt": "2026-04-16T22:26:21.013Z",
       "source": "manual"
     },
     {
-      "id": "81b804f2-5f9a-438b-839a-0725250003de",
+      "id": "90fd3abb-a3c1-4b90-993c-d9a60a543611",
+      "category": "avoidance",
+      "instruction": "Avoid boxed-set essay language, critic roundup language, and clean historical summaries unless the user asks for a factual note.",
+      "rationale": "Research should sharpen the take, not replace the user's voice with institutional music-writing tone.",
+      "priority": 98,
+      "createdAt": "2026-04-16T22:26:21.014Z",
+      "updatedAt": "2026-04-16T22:26:21.014Z",
+      "source": "manual"
+    },
+    {
+      "id": "e880457f-e359-4dea-b108-a6e5bc2da792",
       "category": "pattern",
       "instruction": "When possible, pivot from the shirt toward what makes the band, record, or era interesting.",
       "rationale": "This matches the further and Archers of Loaf posts you identified as anchor examples.",
       "priority": 97,
-      "createdAt": "2026-04-13T22:09:24.026Z",
-      "updatedAt": "2026-04-13T22:09:24.026Z",
+      "createdAt": "2026-04-16T22:26:21.010Z",
+      "updatedAt": "2026-04-16T22:26:21.010Z",
       "source": "manual"
     },
     {
-      "id": "12d2e90c-68ae-4cd7-ba57-2d98939753fe",
+      "id": "2fa9390c-746f-4818-a693-b32a5a5eec49",
       "category": "grammar",
       "instruction": "Avoid phrasing that suggests you personally lived a scene in real time when you are really speaking from knowledge, listening, and historical understanding.",
       "rationale": "The voice should carry authority without borrowing eyewitness status.",
       "priority": 97,
-      "createdAt": "2026-04-13T22:09:24.027Z",
-      "updatedAt": "2026-04-13T22:09:24.027Z",
+      "createdAt": "2026-04-16T22:26:21.012Z",
+      "updatedAt": "2026-04-16T22:26:21.012Z",
       "source": "manual"
     },
     {
-      "id": "a71d1b6d-9a8f-4f06-8754-b5f8ce34b39c",
+      "id": "d8d41fcb-7c5e-4b40-893f-57ba3694b713",
+      "category": "tone",
+      "instruction": "Prefer one strong personal observation over a complete argument.",
+      "rationale": "The best captions do not need to prove every point. They need a clear angle that feels true to the user's taste.",
+      "priority": 97,
+      "createdAt": "2026-04-16T22:26:21.015Z",
+      "updatedAt": "2026-04-16T22:26:21.015Z",
+      "source": "manual"
+    },
+    {
+      "id": "e19f841e-c9e8-462a-a6ee-02be80a92563",
       "category": "vocabulary",
       "instruction": "Favor music writing, cultural context, and personal taste over collector jargon.",
       "rationale": "This keeps the captions closer to criticism and reflection than vintage commerce.",
       "priority": 96,
-      "createdAt": "2026-04-13T22:09:24.025Z",
-      "updatedAt": "2026-04-13T22:09:24.025Z",
+      "createdAt": "2026-04-16T22:26:21.009Z",
+      "updatedAt": "2026-04-16T22:26:21.009Z",
       "source": "manual"
     },
     {
-      "id": "03bf391e-8d63-4dbb-abc7-6a3a474d3809",
+      "id": "98834eed-c3fc-424d-b160-e4f09bb9bd1e",
+      "category": "structure",
+      "instruction": "Let the caption keep some conversational irregularity: short blunt sentences, small asides, and a little unresolved tension are allowed.",
+      "rationale": "The style is not a tidy essay. It should feel like a person arriving at a point, not a thesis being presented.",
+      "priority": 96,
+      "createdAt": "2026-04-16T22:26:21.014Z",
+      "updatedAt": "2026-04-16T22:26:21.014Z",
+      "source": "manual"
+    },
+    {
+      "id": "af37a4ad-7b5f-406b-aaf6-d02c4e8bf7a5",
       "category": "grammar",
       "instruction": "Prefer language like 'seems central,' 'has come to feel important,' 'in the history of,' or 'the more you dig into it' over language that assumes direct contemporaneous experience.",
       "rationale": "This keeps the stance grounded in informed retrospect rather than false memoir.",
       "priority": 95,
-      "createdAt": "2026-04-13T22:09:24.028Z",
-      "updatedAt": "2026-04-13T22:09:24.028Z",
+      "createdAt": "2026-04-16T22:26:21.012Z",
+      "updatedAt": "2026-04-16T22:26:21.012Z",
       "source": "manual"
     },
     {
-      "id": "41469779-320d-41ab-a1b6-caaf08962b82",
+      "id": "8f24d8b1-7c54-43db-bf63-376fb668b24a",
+      "category": "avoidance",
+      "instruction": "Do not default to the pattern 'not just X, but Y' or other tidy contrastive constructions.",
+      "rationale": "Those constructions often sound like generated copy and flatten the user's more direct style.",
+      "priority": 95,
+      "createdAt": "2026-04-16T22:26:21.016Z",
+      "updatedAt": "2026-04-16T22:26:21.016Z",
+      "source": "manual"
+    },
+    {
+      "id": "ffc67695-6ec2-4b34-b4b2-d17281324f12",
       "category": "tone",
       "instruction": "Sound like someone thinking through taste and significance in real time.",
       "rationale": "The voice should feel reflective, specific, and alive rather than polished into copy.",
       "priority": 94,
-      "createdAt": "2026-04-13T22:09:24.026Z",
-      "updatedAt": "2026-04-13T22:09:24.026Z",
+      "createdAt": "2026-04-16T22:26:21.011Z",
+      "updatedAt": "2026-04-16T22:26:21.011Z",
       "source": "manual"
     },
     {
-      "id": "60c4b9a4-8e53-4594-8d71-6d840a284574",
+      "id": "9630c05c-48df-4a74-bdff-84d8c4f3c354",
+      "category": "vocabulary",
+      "instruction": "Use plain, specific words before abstract critic terms.",
+      "rationale": "Words like 'important,' 'weird,' 'messy,' 'funny,' 'mean,' 'warped,' and 'stupid question' often fit better than polished terms like 'canonical,' 'liminal,' 'seminal,' or 'cultural artifact.'",
+      "priority": 94,
+      "createdAt": "2026-04-16T22:26:21.015Z",
+      "updatedAt": "2026-04-16T22:26:21.015Z",
+      "source": "manual"
+    },
+    {
+      "id": "6f364afd-f38e-4274-8be7-ede2466f0511",
       "category": "vocabulary",
       "instruction": "Keep wording natural and conversational rather than corporate.",
       "priority": 85,
-      "createdAt": "2026-04-13T22:09:23.363Z",
-      "updatedAt": "2026-04-13T22:09:23.363Z",
+      "createdAt": "2026-04-16T22:26:20.408Z",
+      "updatedAt": "2026-04-16T22:26:20.408Z",
       "source": "seed-analysis"
     },
     {
-      "id": "106429f9-827a-4f48-bb5c-b798af44963b",
+      "id": "53bcbb04-0cee-4d4d-ba33-92eb530f64f5",
       "category": "structure",
       "instruction": "Allow room for a fuller story arc before the close.",
       "priority": 80,
-      "createdAt": "2026-04-13T22:09:23.363Z",
-      "updatedAt": "2026-04-13T22:09:23.363Z",
+      "createdAt": "2026-04-16T22:26:20.408Z",
+      "updatedAt": "2026-04-16T22:26:20.408Z",
       "source": "seed-analysis"
     },
     {
-      "id": "303c69b8-7740-44ea-8633-872b3b143bac",
+      "id": "f4369ca6-fdbd-41fa-953c-5ddcd052dced",
       "category": "pattern",
-      "instruction": "Preserve recurring language patterns such as: after that, who knows, archers of loaf -, but it wasn’t.",
+      "instruction": "Use recurring phrases as diagnostic evidence only, not as reusable language: after that, who knows, archers of loaf -, but it wasn’t.",
       "priority": 75,
-      "createdAt": "2026-04-13T22:09:23.363Z",
-      "updatedAt": "2026-04-13T22:09:23.363Z",
+      "createdAt": "2026-04-16T22:26:20.408Z",
+      "updatedAt": "2026-04-16T22:26:20.408Z",
       "source": "seed-analysis"
     },
     {
-      "id": "1183e259-cbc4-4ebc-9e22-2dda6f797cac",
+      "id": "8748caf5-470a-4386-aa4e-1a3cf6822f3b",
       "category": "tone",
       "instruction": "Avoid sounding salesy or overly directive.",
       "priority": 70,
-      "createdAt": "2026-04-13T22:09:23.363Z",
-      "updatedAt": "2026-04-13T22:09:23.363Z",
+      "createdAt": "2026-04-16T22:26:20.408Z",
+      "updatedAt": "2026-04-16T22:26:20.408Z",
       "source": "seed-analysis"
     },
     {
-      "id": "1c483f50-42ed-4adc-8b83-da4c66bae541",
+      "id": "323b641e-a882-4a3f-9823-aa9c8e74381b",
       "category": "pattern",
-      "instruction": "Common caption openings tend to resemble: 2025 was a | A great EP.",
+      "instruction": "Common caption openings are reference points to avoid over-repeating, not templates: 2025 was a | A great EP.",
       "priority": 55,
-      "createdAt": "2026-04-13T22:09:23.363Z",
-      "updatedAt": "2026-04-13T22:09:23.363Z",
+      "createdAt": "2026-04-16T22:26:20.408Z",
+      "updatedAt": "2026-04-16T22:26:20.408Z",
       "source": "seed-analysis"
     }
   ],
   "profile": {
-    "summary": "Seeded from 14 posts. Captions trend longer-form, with no emojis and rare direct CTA language.",
+    "summary": "Seeded from 15 posts. Captions trend longer-form, with no emojis and rare direct CTA language.",
     "toneKeywords": [
-      "time",
       "they",
+      "time",
       "band",
-      "still",
-      "like"
+      "like",
+      "still"
     ],
     "commonOpeners": [
       "2025 was a",
@@ -394,8 +520,8 @@
       "after that, who knows",
       "archers of loaf -",
       "but it wasn’t",
-      "craig’s voice is a lot",
-      "even the fake gbv chant at the start feels important now"
+      "but that won’t stop me",
+      "craig’s voice is a lot"
     ],
     "recurringHashtags": [
       "#guidedbyvoices",
@@ -405,7 +531,7 @@
     "emojiUsage": "none",
     "punctuationStyle": "minimal",
     "callToActionStyle": "rare",
-    "updatedAt": "2026-04-13T22:09:23.363Z"
+    "updatedAt": "2026-04-16T22:26:20.408Z"
   },
   "direction": {
     "positioning": "This is a hobby archive page, not a sales channel or fashion marketing page.",
@@ -435,6 +561,6 @@
       "further",
       "Archers of Loaf"
     ],
-    "updatedAt": "2026-04-13T22:09:23.719Z"
+    "updatedAt": "2026-04-16T22:26:20.710Z"
   }
 }

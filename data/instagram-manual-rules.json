@@ -1,0 +1,134 @@
+[
+  {
+    "category": "tone",
+    "instruction": "Lead with the musical idea, not the fact that you own the shirt.",
+    "rationale": "The page should read like music conversation filtered through collecting, not collecting for its own sake.",
+    "priority": 100
+  },
+  {
+    "category": "structure",
+    "instruction": "Use the shirt as supporting evidence or a prompt, not the headline.",
+    "rationale": "The object should open the door to a larger point about the band, record, or scene.",
+    "priority": 98
+  },
+  {
+    "category": "vocabulary",
+    "instruction": "Favor music writing, cultural context, and personal taste over collector jargon.",
+    "rationale": "This keeps the captions closer to criticism and reflection than vintage commerce.",
+    "priority": 96
+  },
+  {
+    "category": "avoidance",
+    "instruction": "Do not sound like sales copy, product marketing, or resale content.",
+    "rationale": "The page is an archive and hobby outlet, not a storefront.",
+    "priority": 100
+  },
+  {
+    "category": "avoidance",
+    "instruction": "Do not reduce the caption to simple identification like 'here's a Pavement shirt'.",
+    "rationale": "The post should move beyond naming the item and toward why the music matters.",
+    "priority": 99
+  },
+  {
+    "category": "pattern",
+    "instruction": "When possible, pivot from the shirt toward what makes the band, record, or era interesting.",
+    "rationale": "This matches the further and Archers of Loaf posts you identified as anchor examples.",
+    "priority": 97
+  },
+  {
+    "category": "tone",
+    "instruction": "Sound like someone thinking through taste and significance in real time.",
+    "rationale": "The voice should feel reflective, specific, and alive rather than polished into copy.",
+    "priority": 94
+  },
+  {
+    "category": "tone",
+    "instruction": "Write from informed proximity, not false firsthandness.",
+    "rationale": "Do not imply direct participation in 80s or 90s scenes unless it is literally true.",
+    "priority": 99
+  },
+  {
+    "category": "grammar",
+    "instruction": "Avoid phrasing that suggests you personally lived a scene in real time when you are really speaking from knowledge, listening, and historical understanding.",
+    "rationale": "The voice should carry authority without borrowing eyewitness status.",
+    "priority": 97
+  },
+  {
+    "category": "grammar",
+    "instruction": "Prefer language like 'seems central,' 'has come to feel important,' 'in the history of,' or 'the more you dig into it' over language that assumes direct contemporaneous experience.",
+    "rationale": "This keeps the stance grounded in informed retrospect rather than false memoir.",
+    "priority": 95
+  },
+  {
+    "category": "avoidance",
+    "instruction": "Do not write as though you were present in a 90s scene unless the post is explicitly about your own lived experience.",
+    "rationale": "Avoid accidental scene cosplay or borrowed authority.",
+    "priority": 98
+  },
+  {
+    "category": "pattern",
+    "instruction": "Study past posts for their underlying move, not their surface wording.",
+    "rationale": "The goal is to understand how a caption thinks: premise, personal stake, specific context, turn, and close. Reusing phrases from earlier captions makes new posts feel like templates.",
+    "priority": 100
+  },
+  {
+    "category": "avoidance",
+    "instruction": "Do not recycle successful phrases, sentence shapes, or closing moves from recent captions unless the user explicitly asks for a callback.",
+    "rationale": "The voice should stay consistent without making every post sound like a variation of the last one.",
+    "priority": 100
+  },
+  {
+    "category": "tone",
+    "instruction": "Preserve the roughness of the user's draft before polishing it.",
+    "rationale": "The user's captions often work because they start as a blunt, human observation. Over-cleaning turns them into generic music criticism.",
+    "priority": 99
+  },
+  {
+    "category": "structure",
+    "instruction": "Let the caption keep some conversational irregularity: short blunt sentences, small asides, and a little unresolved tension are allowed.",
+    "rationale": "The style is not a tidy essay. It should feel like a person arriving at a point, not a thesis being presented.",
+    "priority": 96
+  },
+  {
+    "category": "avoidance",
+    "instruction": "Avoid boxed-set essay language, critic roundup language, and clean historical summaries unless the user asks for a factual note.",
+    "rationale": "Research should sharpen the take, not replace the user's voice with institutional music-writing tone.",
+    "priority": 98
+  },
+  {
+    "category": "tone",
+    "instruction": "Prefer one strong personal observation over a complete argument.",
+    "rationale": "The best captions do not need to prove every point. They need a clear angle that feels true to the user's taste.",
+    "priority": 97
+  },
+  {
+    "category": "vocabulary",
+    "instruction": "Use plain, specific words before abstract critic terms.",
+    "rationale": "Words like 'important,' 'weird,' 'messy,' 'funny,' 'mean,' 'warped,' and 'stupid question' often fit better than polished terms like 'canonical,' 'liminal,' 'seminal,' or 'cultural artifact.'",
+    "priority": 94
+  },
+  {
+    "category": "process",
+    "instruction": "When rewriting a user draft, keep the user's central sentences visible and improve rhythm around them instead of replacing the whole voice.",
+    "rationale": "The tool should act like an editor, not a ghostwriter trying to impress someone.",
+    "priority": 100
+  },
+  {
+    "category": "process",
+    "instruction": "Before offering a polished caption, name the actual take in one sentence and identify what must not be repeated from the last few posts.",
+    "rationale": "This forces the agent to distinguish artistic style from phrase reuse and prevents accidental regurgitation.",
+    "priority": 99
+  },
+  {
+    "category": "avoidance",
+    "instruction": "Do not default to the pattern 'not just X, but Y' or other tidy contrastive constructions.",
+    "rationale": "Those constructions often sound like generated copy and flatten the user's more direct style.",
+    "priority": 95
+  },
+  {
+    "category": "punctuation",
+    "instruction": "Avoid em dashes. Rewrite the sentence, use a period, or use a comma or semicolon when grammatically clean.",
+    "rationale": "The user's preference is to avoid dash-driven rhythm.",
+    "priority": 100
+  }
+]

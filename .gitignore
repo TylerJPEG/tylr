@@ -4,3 +4,7 @@ dist/
 coverage/
 data/*.json
 !data/.gitkeep
+!data/instagram-direction.json
+!data/instagram-manual-rules.json
+!data/instagram-posts.seed.json
+!data/instagram-workspace.json
